@@ -1,0 +1,15 @@
+lease
+show-cart
+cart
+action-in-cart
+confirm
+checkout
+discount
+show-history
+search-history
+search-by-order-date
+view-details
+delete-order
+feedback
+show-feed-back-page
+rating
